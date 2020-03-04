@@ -15,7 +15,7 @@ const category4_titles = ['Github', 'Moodle', 'Webassign'];
 const category4_links = [`https://github.ncsu.edu`, `https://wolfware.ncsu.edu/courses/my-wolfware`, `https://www.webassign.net/ncsu`];
 //Music
 const category5_titles = ['Listen.moe', 'Spotify'];
-const category5_links = [`https://listen.moe`, `https://www.spotify.com/us/`];
+const category5_links = [`https://listen.moe`, `https://open.spotify.com/`];
 //In order of left -> right
 const categories = ['ソーシャル','アニメ','エクストラ','学校','音楽'];
                                                                           //Background Color
