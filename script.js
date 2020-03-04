@@ -2,22 +2,22 @@
 //                                      FOR USER 
 // LEFT ----> RIGHT [] [] [] [] []
 //Social    
-const category1_titles = ['Youtube', 'Twitter', 'Gmail'];
-const category1_links = [`https://www.youtube.com`, `https://twitter.com`, `https://mail.google.com/mail/u/0/#inbox`];
+const category1_titles = ['Gmail', 'Reddit', 'Twitter', 'Youtube'];
+const category1_links = [`https://mail.google.com/mail/u/0/#inbox`, `https://www.reddit.com`, `https://twitter.com`, `https://www.youtube.com` ];
 //Anime
-const category2_titles = ['Twist.moe', 'Anilist', 'Konachan', 'Wall Haven'];
-const category2_links = [`https://twist.moe`, `https://anilist.co`, `https://konachan.net`, 'https://wallhaven.cc/search?q=id:5&ref=fp'];
-//Favorites
-const category3_titles = ['Online-Go', 'Reddit'];
-const category3_links = [`https://online-go.com`, `https://www.reddit.com`];
-//Programming
-const category4_titles = ['Github', 'W3 Schools', 'Stack Overflow'];
-const category4_links = [`https://github.com`, `https://www.w3schools.com`, `https://stackoverflow.com`];
+const category2_titles = ['Anilist', 'Animepahe', 'AmiAmi', 'Crunchyroll', 'Danbooru', 'MFG'];
+const category2_links = [`https://anilist.co`, `https://animepahe.com`, `https://www.amiami.com/eng/`, `https://crunchyroll.com`,  `https://danbooru.donmai.us/posts?tags=touhou`, `https://myfigurecollection.net/`];
+//Extras
+const category3_titles = ['ANN', 'Ko-fi', 'Patreon', 'Steam'];
+const category3_links = [`https://www.animenewsnetwork.com/`, `https://ko-fi.com/devikomi`, `https://www.patreon.com/home`, `https://store.steampowered.com/`];
+//School
+const category4_titles = ['Github', 'Moodle', 'Webassign'];
+const category4_links = [`https://github.ncsu.edu`, `https://wolfware.ncsu.edu/courses/my-wolfware`, `https://www.webassign.net/ncsu`];
 //Music
-const category5_titles = ['Listen.moe', 'Spotify', 'Sound Cloud'];
-const category5_links = [`https://listen.moe`, `https://www.spotify.com/us/`, `https://soundcloud.com`];
+const category5_titles = ['Listen.moe', 'Spotify'];
+const category5_links = [`https://listen.moe`, `https://www.spotify.com/us/`];
 //In order of left -> right
-const categories = ['ソーシャル','アニメ','お気に入り','プログラミング','音楽'];
+const categories = ['ソーシャル','アニメ','エクストラ','学校','音楽'];
                                                                           //Background Color
 const card_colors = ['#28796B','#693273','#410E1A', '#7A94AB', '#D79052', '#2B2F3D']
 //////////////////////////////////////////////////////////////////////////////////////////////
