@@ -11,7 +11,7 @@ const category2_links = [`https://anilist.co`, `https://animepahe.com`, `https:/
 const category3_titles = ['AA', 'ANN', 'Ko-fi', 'Patreon', 'Steam'];
 const category3_links = [`https://www.androidauthority.com/news/`, `https://www.animenewsnetwork.com/`, `https://ko-fi.com/devikomi`, `https://www.patreon.com/home`, `https://store.steampowered.com/`];
 //School
-const category4_titles = ['Github', 'Google Docs' 'Moodle', 'Webassign'];
+const category4_titles = ['Github', 'Google Docs', 'Moodle', 'Webassign'];
 const category4_links = [`https://github.ncsu.edu`, `https://docs.google.com/document/u/2/?tgif=d`, `https://wolfware.ncsu.edu/courses/my-wolfware`, `https://www.webassign.net/ncsu`];
 //Music
 const category5_titles = ['Listen.moe', 'Spotify'];
