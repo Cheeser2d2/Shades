@@ -2,8 +2,8 @@
 //                                      FOR USER 
 // LEFT ----> RIGHT [] [] [] [] []
 //Social    
-const category1_titles = ['Gmail', 'Reddit', 'Twitter', 'Youtube'];
-const category1_links = [`https://mail.google.com/mail/u/0/#inbox`, `https://www.reddit.com`, `https://twitter.com`, `https://www.youtube.com` ];
+const category1_titles = ['Gmail', 'Reddit', 'Twitch', 'Twitter', 'Youtube'];
+const category1_links = [`https://mail.google.com/mail/u/0/#inbox`, `https://www.reddit.com`, `https://www.twitch.tv/`, `https://twitter.com`, `https://www.youtube.com` ];
 //Anime
 const category2_titles = ['Anilist', 'Animepahe', 'AmiAmi', 'Crunchyroll', 'Danbooru', 'MFG'];
 const category2_links = [`https://anilist.co`, `https://animepahe.com`, `https://www.amiami.com/eng/`, `https://crunchyroll.com`,  `https://danbooru.donmai.us/posts?tags=touhou`, `https://myfigurecollection.net/`];
